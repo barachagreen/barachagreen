@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 
+My name is Barachagreen, a Frontend web-designer, acrypto enthusiast and an airdrop farmer...👋
 
 <!--
 **barachagreen/barachagreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
